@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/New folder (7)/fine7/cmake-build-debug/CMakeFiles/fine7.dir
+C:/Users/Lenovo/Desktop/New folder (7)/fine7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/New folder (7)/fine7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
